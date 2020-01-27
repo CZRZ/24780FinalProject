@@ -11,8 +11,9 @@
     Xiao Jiang |
     Ming Zhang</b>
 </p>
-<strong>12/03/2019</strong>
-
+<p align="center">
+    <strong>12/03/2019</strong>
+</p>
 # 1. Introduction
 
 Secret Dungeon in CMU is a rogue-like game which is dedicated to helping CMU students get familiar with the inner connection structure of different buildings. In this game, you will be facing different monsters, such as assignments, quizzes, midterms and finals. The only way to survive is to beat all the specified monsters and find the way out. The map below shows the part where Hamerschlag Hall, Wean Hall and Scott Hall connect with each other.
