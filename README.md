@@ -4,17 +4,12 @@
 
 ## 4am@Pitts Team Members:
 <p align="center">
-<b>Zeruizhi Cheng
-
-Tiecheng Wang
-
-Jincheng Lu
-
-Kangchun Wang
-
-Xiao Jiang
-
-Ming Zhang</b>
+    <b>Zeruizhi Cheng
+    Tiecheng Wang
+    Jincheng Lu
+    Kangchun Wang
+    Xiao Jiang
+    Ming Zhang</b>
 </p>
 <strong>12/03/2019</strong>
 
