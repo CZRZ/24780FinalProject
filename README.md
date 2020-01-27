@@ -24,7 +24,9 @@ Secret Dungeon in CMU is a rogue-like game which is dedicated to helping CMU stu
 
 <div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093359672.png"/></div>
     
-<center>Fig 1. Map of the game</center>
+<p align="center">
+    <b>Fig 1. Map of the game</b>
+</p>
 
 
 # 2. Platform and Device Requirements
