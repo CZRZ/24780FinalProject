@@ -169,30 +169,15 @@ Along the way to beat those bosses, there are many Assignments wandering inside 
 After using Google, the speed of your weapon will increase. Github can upgrade the weapon and make it more powerful. Coffee will bring you health and Cheatsheet will allow you to fire more rounds of weapon.
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 ●  NPC
 
 Don’t forget to ask someone else, when you are lost yourself.
-
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/20200126223059329.png"/></div>
   
+<p align="center">
+    <b>Fig 11. NPC</b>
+</p>
 
-Fig 11. NPC
 
 # 5. Technical Support
 
