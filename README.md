@@ -22,7 +22,7 @@ Ming Zhang
 
 Secret Dungeon in CMU is a rogue-like game which is dedicated to helping CMU students get familiar with the inner connection structure of different buildings. In this game, you will be facing different monsters, such as assignments, quizzes, midterms and finals. The only way to survive is to beat all the specified monsters and find the way out. The map below shows the part where Hamerschlag Hall, Wean Hall and Scott Hall connect with each other.
 
-![1580093374294](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093359672.png)
+<div align=center>![1580093374294](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093359672.png)</div>
 
 ​           
 
