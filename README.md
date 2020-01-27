@@ -154,9 +154,9 @@ To survive and enjoy the winter vacation, Warrior needs to defeat three bosses. 
 Along the way to beat those bosses, there are many Assignments wandering inside the building. You can beat them easily. After they are finished, they will drop different kinds of items. To collect these items, you can become stronger and more confident to face the bosses.
 
 <p align="center">
-    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094745459.png"> |
-    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094751293.png"> |
-    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094804179.png"> |
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094745459.png">
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094751293.png">
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094804179.png">
     <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094832538.png">
 </p>
 
