@@ -62,7 +62,9 @@ To start your journey, you should first select your warrior.
 
 <div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093453054.png"/></div>
 
-<center>Fig 2. Menu</center>
+<p align="center">
+    <b>Fig 2. Menu</b>
+</p>
     
 
 ●  Manipulation
@@ -81,7 +83,9 @@ Press d on the keyboard to move right
 
 <div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093523834.png"/></div>
 
-<center>Fig 3. How to move</center>
+<p align="center">
+    <b>Fig 3. How to move</b>
+</p>
     
 
 ●  Weapon
@@ -92,23 +96,29 @@ Left-click to fire the weapon Fireball.
       
   </div>
 
-![1580093787995](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093796847.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093796847.png"/></div>
 
-<center>Fig 4. Weapon 1:Fireball
+<p align="center">
+    <b>Fig 4. Weapon 1:Fireball</b>
+</p>
 
  
 
 Use mouse to aim at your target, and right-click to fire the weapon Dart. Dart can be reflected after hitting the monster. If you are brave enough to catch this Dart, you can upgrade this Dart to Magic Green Dart, which will cause extra magic damage to the monster.
 
-![1580093877661](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093877661.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093877661.png"/></div>
 
-<center>Fig 5. Weapon 2: Dart
+<p align="center">
+    <b>Fig 5. Weapon 2: Dart</b>
+</p>
 
  
 
-![1580093991216](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093991216.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093991216.png"/></div>
 
-<center>Fig 6. Upgraded Weapon 2: Magic Dart
+<p align="center">
+    <b>Fig 6. Upgraded Weapon 2: Magic Dart</b>
+</p>
 
  
 
@@ -116,19 +126,26 @@ Use mouse to aim at your target, and right-click to fire the weapon Dart. Dart c
 
 To survive and enjoy the winter vacation, Warrior needs to defeat three bosses. They are Quiz, Midterm, and Final.
 
-![1580094046868](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094046868.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094046868.png"/></div>
 
-<center>Fig 7. Boss 1: Quiz
+<p align="center">
+    <b>Fig 7. Boss 1: Quiz</b>
+</p>
 
 
 
-![1580094093000](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094093000.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094093000.png"/></div>
 
-<center>Fig 8. Boss 2: Midterm
+<p align="center">
+    <b>Fig 8. Boss 2: Midterm</b>
+</p>
 
-![1580094394718](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094394718.png)
 
-<center>Fig 9. Boss 3: Final
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094394718.png"/></div>
+
+<p align="center">
+    <b>Fig 9. Boss 3: Final</b>
+</p>
 
  
 
@@ -136,9 +153,16 @@ To survive and enjoy the winter vacation, Warrior needs to defeat three bosses. 
 
 Along the way to beat those bosses, there are many Assignments wandering inside the building. You can beat them easily. After they are finished, they will drop different kinds of items. To collect these items, you can become stronger and more confident to face the bosses.
 
-![1580094745459](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094745459.png)![1580094751293](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094751293.png)![1580094804179](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094804179.png)![1580094832538](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094832538.png)
+<p align="center">
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094745459.png"> |
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094751293.png"> |
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094804179.png"> |
+    <img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580094832538.png">
+</p>
 
-<center>Fig 10. Items: Google, Github, Coffee and Cheatsheet
+<p align="center">
+    <b>Fig 10. Items: Google, Github, Coffee and Cheatsheet</b>
+</p>
 
  
 
