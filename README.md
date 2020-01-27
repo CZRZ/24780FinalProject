@@ -2,21 +2,21 @@
 
 
 
-<center>4am@Pitts Team Members:</center>
+## 4am@Pitts Team Members:
 
-<center>Zeruizhi Cheng
+Zeruizhi Cheng
 
-<center>Tiecheng Wang
+Tiecheng Wang
 
-<center>Jincheng Lu
+Jincheng Lu
 
-<center>Kangchun Wang
+Kangchun Wang
 
-<center>Xiao Jiang
+Xiao Jiang
 
-<center>Ming Zhang
+Ming Zhang
 
-<center><strong>12/03/2019</strong></center>
+<strong>12/03/2019</strong>
 
 # 1. Introduction
 
