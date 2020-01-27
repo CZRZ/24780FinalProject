@@ -60,7 +60,8 @@ To start your journey, you should first select your warrior.
 
 <div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093453054.png"/></div>
 
-<center>Fig 2. Menu
+<center>Fig 2. Menu</center>
+    
 
 ●  Manipulation
 
@@ -78,7 +79,8 @@ Press d on the keyboard to move right
 
 <div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093523834.png"/></div>
 
-<Center>Fig 3. How to move
+<center>Fig 3. How to move</center>
+    
 
 ●  Weapon
 
