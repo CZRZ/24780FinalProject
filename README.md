@@ -23,11 +23,8 @@ Ming Zhang
 Secret Dungeon in CMU is a rogue-like game which is dedicated to helping CMU students get familiar with the inner connection structure of different buildings. In this game, you will be facing different monsters, such as assignments, quizzes, midterms and finals. The only way to survive is to beat all the specified monsters and find the way out. The map below shows the part where Hamerschlag Hall, Wean Hall and Scott Hall connect with each other.
 
 <div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093359672.png"/></div>
-
-​           
-
+    
 <center>Fig 1. Map of the game</center>
-
 
 
 # 2. Platform and Device Requirements
@@ -50,7 +47,6 @@ The compile command is:
 
 **cl SDCMU.cpp weapon.cpp Monster.cpp player.cpp menu.cpp Item.cpp ending.cpp npc.cpp door.cpp map.cpp character.cpp yspngenc.cpp ysglfontdata.c fssimplewindow.cpp yssimplesound.cpp yssimplesound_dsound.cpp yspng.cpp**
 
- 
 
 ●   Run Directly
 
@@ -62,11 +58,9 @@ Unzip the zip file and open the folder. Then simply click the executable file SD
 
 To start your journey, you should first select your warrior. 
 
-![1580093453054](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093453054.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093453054.png"/></div>
 
 <center>Fig 2. Menu
-
- 
 
 ●  Manipulation
 
@@ -82,11 +76,9 @@ Press s on the keyboard to move downwards
 
 Press d on the keyboard to move right
 
-![1580093523834](https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093523834.png)
+<div align=center><img src="https://github.com/MarvelousV/24780FinalProject/blob/master/ReadMe%20Image/1580093523834.png"/></div>
 
 <Center>Fig 3. How to move
-
- 
 
 ●  Weapon
 
