@@ -2,7 +2,7 @@
 
 
 
-<center>4am@Pitts Team Members:
+<center>4am@Pitts Team Members:</center>
 
 <center>Zeruizhi Cheng
 
